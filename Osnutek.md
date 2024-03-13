@@ -13,3 +13,5 @@ Vprašanja:
 
 Opis:
 Zbrali bomo podatke o vremenu za Evropo in Slovenijo in s podatki poizkusili odgovoriti na naša vprašanja.
+
+V skupini smo: Tim Pristavec Žlindra, Žiga Modrić, Nejc Černelč.
