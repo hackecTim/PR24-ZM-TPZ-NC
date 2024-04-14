@@ -6,20 +6,24 @@ Opis podatkov: Podatki so predstavljeni ločeno za vsako evropsko državo in vkl
 
 CILJI IN VPRAŠANJA
 (Kateri dejavniki vplivajo na toplotno ogrevanje v Sloveniji.) Maybe 
----Kdaj se je začela sprememba v ozračju Slovenije.
----Za koliko stopinj se je ozračje spremenilo.
----Kakšne posledice ima to na Slovenijo
----Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".
+-Kdaj se je začela sprememba v ozračju Slovenije.
+-Za koliko stopinj se je ozračje spremenilo.
+-Kakšne posledice ima to na Slovenijo
+-Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".
 
 Izvedene analize:
 1. Analiza
+
+   Najprej smo poiskali najhladnejši in najtoplejši dan v podatkovni bazi za slovenijo med leti 1980 in 2020.
+   
+   Za vsa leta smo poizkali povprečno temperaturo za vsa leta in iz tega izračunali v katerem letu je prišlo do najvišje spremembe v temperaturi
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/3651762a-e6a7-4220-a8e5-b9d1b570943c)
-
-    - Najprej smo poizkali najhladnejši in najtoplejši dan v podatkovni bazi za slovenijo med leti 1980 in 2020.
-    - Za vsa leta smo poizkali povprečno temperaturo za vsa leta in iz tega izračunali v katerem letu je prišlo do najvišje spremembe v temperaturi
-    - Naredili smo povprečno temperaturo po mescih za prikaz hladnih mescov
-    - 
+   
+   Za vsa leta smo poiskali povprečno temperaturo in iz tega izračunali v katerem letu je prišlo do najvišje spremembe v temperaturi
+      
+   Naredili smo povprečno temperaturo po mescih za prikaz hladnih in toplih mescov.
+      
 
 
     
@@ -35,11 +39,6 @@ Glavne ugotovitve:
 Glavni oziroma najzanimivejši rezultati:
 
 
-(Kateri dejavniki vplivajo na toplotno ogrevanje v Sloveniji.) Maybe 
-        ---Kdaj se je začela sprememba v ozračju Slovenije.
-        ---Za koliko stopinj se je ozračje spremenilo.
----Kakšne posledice ima to na Slovenijo
----Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".
 
 
 
