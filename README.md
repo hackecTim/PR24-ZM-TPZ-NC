@@ -7,11 +7,15 @@ Opis podatkov: Podatki so predstavljeni ločeno za vsako evropsko državo in vkl
 Glavne ugotovitve: 
 - S pomočjo analize podatkov smo ugotovili, kdaj se je začela sprememba ozračja in temperature v Sloveniji. To smo prikazali s pomočjo grafa in ugotovili, da se je temperatura začela 
   občutno spreminjati leta __.
-- Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da so leta v povprečju 1.4°C toplejša. 
+- Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da so leta v povprečju 1.4°C toplejša.
+  ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/dd3758cc-0643-496e-9d51-0d79f8429151)
 
 Izvedene analize: 
 
+
+
 Glavni oziroma najzanimivejši rezultati:
+
 
 
 
