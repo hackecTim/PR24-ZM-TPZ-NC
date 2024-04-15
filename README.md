@@ -36,13 +36,12 @@ Izvedene analize:
    Pri tretji analizi smo poskušali ugotoviti, kakšna je bila razlika v povprečni temperaturi Slovenije med letoma 1980 in 2020. Ugotovili smo, za koliko stopinj se je povprečna 
    temperatura v tem obdobju povečala, ter identificirali leti, med katerima je bila največja razlika v povprečni temperaturi.
    Najprej smo izračunali povprečno temperaturo Slovenije za vsa leta med 1980 in 2020 in to prikazali z grafom.
-   
-   
- 
-   
-   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/3651762a-e6a7-4220-a8e5-b9d1b570943c)
-   
 
+   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/3651762a-e6a7-4220-a8e5-b9d1b570943c)
+   Graf prikazuje povprečno temperaturo Slovenije za vsa leta med 1980 in 2020.
+
+   Potem smo izračunali razliko med povprečno temperaturo Slovenije med leti 1980 do 2020.
+   In s tem smo ugotovili, da se je največja razlika zgodila med letoma 2010 do 2011 za 1,4°C.
 
 5. Analiza 
       
