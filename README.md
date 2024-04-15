@@ -21,9 +21,15 @@ Izvedene analize:
 
 2. Analiza
    Pri drugi analizi smo želeli prikazati povprečno temperaturo za hladne in tople mesece med leti 1980 in 2020. Najprej smo izračunali povprečno temperaturo za vsak mesec v obdobju 
-   od leta 1980 do 2020. Podatke smo združili in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
-   2020. Graf je prikazan spodaj.
+   od leta 1980 do 2020.
 
+   
+
+    Podatke smo združili in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
+   2020. Graf je prikazan spodaj.
+   
+   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/33842c6a-c645-43d3-be18-224a6c94b7ec)
+   Graf prikazuje povprečno temperaturo za mesece december, januar in februar v obdobju od leta 1980 do 2020.
 
 4. Analiza
 
