@@ -13,6 +13,11 @@ CILJI IN VPRAŠANJA
 
 Izvedene analize:
 1. Analiza
+   Prebrali smo vse podatke iz baze za Slovenijo in primerjali leto 1981 in leto 2019. Najprej smo izračunali za oba leta povprečno temperaturo za vse mesce in to prikazali s plot    
+   grafom. Graf je prikazan spodaj.
+
+   
+1. Analiza
 
    Najprej smo poiskali najhladnejši in najtoplejši dan v podatkovni bazi za slovenijo med leti 1980 in 2020.
    
