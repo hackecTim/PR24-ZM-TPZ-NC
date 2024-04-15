@@ -22,26 +22,27 @@ Izvedene analize:
 2. Analiza
    Pri drugi analizi smo želeli prikazati povprečno temperaturo za hladne in tople mesece med leti 1980 in 2020. Najprej smo izračunali povprečno temperaturo za vsak mesec v obdobju 
    od leta 1980 do 2020.
-
    
-
-    Podatke smo združili in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
+   <img width="326"  alt="image" src="https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/7d21fac6-e667-4f40-a863-153337d89c1e">
+   Slika prikazuje povprečno temperaturo vseh mesecov skozi leta 1980 do 2020.
+   
+   Podatke smo združili in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
    2020. Graf je prikazan spodaj.
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/33842c6a-c645-43d3-be18-224a6c94b7ec)
    Graf prikazuje povprečno temperaturo za mesece december, januar in februar v obdobju od leta 1980 do 2020.
 
-4. Analiza
-
-   Najprej smo poiskali najhladnejši in najtoplejši dan v podatkovni bazi za slovenijo med leti 1980 in 2020.
+3. Analiza
+   Pri tretji analizi smo poskušali ugotoviti, kakšna je bila razlika v povprečni temperaturi Slovenije med letoma 1980 in 2020. Ugotovili smo, za koliko stopinj se je povprečna 
+   temperatura v tem obdobju povečala, ter identificirali leti, med katerima je bila največja razlika v povprečni temperaturi.
+   Najprej smo izračunali povprečno temperaturo Slovenije za vsa leta med 1980 in 2020 in to prikazali z grafom.
    
-   Za vsa leta smo poizkali povprečno temperaturo za vsa leta in iz tega izračunali v katerem letu je prišlo do najvišje spremembe v temperaturi
+   
+ 
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/3651762a-e6a7-4220-a8e5-b9d1b570943c)
    
-   Za vsa leta smo poiskali povprečno temperaturo in iz tega izračunali v katerem letu je prišlo do najvišje spremembe v temperaturi
-      
-   Naredili smo povprečno temperaturo po mescih za prikaz hladnih in toplih mescov.
+
 
 5. Analiza 
       
