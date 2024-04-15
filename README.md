@@ -18,8 +18,14 @@ Izvedene analize:
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/fce9bbd7-08f9-497a-8807-4256032fd1b8)
    Iz tega grafa lahko opazimo, da je leto 2019 bilo v povprečju toplejše.
-   
+
 2. Analiza
+   Pri drugi analizi smo želeli prikazati povprečno temperaturo za hladne in tople mesece med leti 1980 in 2020. Najprej smo izračunali povprečno temperaturo za vsak mesec v obdobju 
+   od leta 1980 do 2020. Podatke smo združili in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
+   2020. Graf je prikazan spodaj.
+
+
+4. Analiza
 
    Najprej smo poiskali najhladnejši in najtoplejši dan v podatkovni bazi za slovenijo med leti 1980 in 2020.
    
@@ -30,6 +36,8 @@ Izvedene analize:
    Za vsa leta smo poiskali povprečno temperaturo in iz tega izračunali v katerem letu je prišlo do najvišje spremembe v temperaturi
       
    Naredili smo povprečno temperaturo po mescih za prikaz hladnih in toplih mescov.
+
+5. Analiza 
       
 
 
