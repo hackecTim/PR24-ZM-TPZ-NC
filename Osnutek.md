@@ -14,5 +14,3 @@ Vprašanja:
 
 Opis:
 Zbrali bomo podatke o vremenu za Evropo in Slovenijo in s podatki poizkusili odgovoriti na naša vprašanja.
-
-
