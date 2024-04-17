@@ -55,7 +55,11 @@ Izvedene analize:
 
    Potem smo poiskali največji preskok v temperaturi, ki se je zgodila iz leta v leto. S tem smo ugotovili, da se je največji preskok zgodil iz leta 2010 do 
    2011 in to za 1,4°C.
+5. Analiza
+   Pri peti analizi smo napovedali rast temperature Slovenija čez 10 let. To smo naredili tako, da smo pridobili za vsako desetletje od 1980 do 2020 povprečno temperaturo in to delili s 10, da smo pridobili rast temperature tistega 
+   desetletja. S temu smo ugotovili zaskrbljujoče napovedi, da lahko pričakujem rast temperature do 2030 za 0.93°C.
 
+   
 Nadaljnje analize, ki jih lahko še dodamo.
 -Analiza iskanja najhladnejše-najtoplejše države v Evropi,
 -Gručenje držav s podobnimi temperaturami(države osrednje Evrope verjetno v isti skupini)
