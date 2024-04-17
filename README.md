@@ -15,8 +15,7 @@ CILJI IN VPRAŠANJA<br>
 Izvedene analize:
 1. Analiza
    
-   Prebrali smo vse podatke iz baze za Slovenijo in primerjali leto 1981 in leto 2019. Najprej smo izračunali povprečno temperaturo na dan obeh let in to prikazali s pomočjo 
-   plot grafa. Graf je prikazan spodaj.
+   Prebrali smo vse podatke iz baze za Slovenijo in primerjali leto 1981 in leto 2019. Najprej smo izračunali povprečno temperaturo na dan obeh let in to prikazali s pomočjo grafa. Graf je prikazan spodaj.
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/fce9bbd7-08f9-497a-8807-4256032fd1b8)
    Iz tega grafa lahko opazimo, da je leto 2019 bilo v povprečju toplejše.
