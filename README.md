@@ -4,10 +4,10 @@ Soočamo se z izzivom globalnega segrevanja in njegovim učinkom na temperaturo 
 
 Opis podatkov: Podatki so predstavljeni ločeno za vsako evropsko državo in vključujejo informacije o sončnem sevanju in temperaturi, merjeni na uro. Podatke je zbrala platforma Renewables.ninja s pomočjo NASA-ine ponovne analize MERRA-2. Zajeti so za vse evropske države, pri čemer je uporabljeno populacijsko povprečje za vsa MERRA-2 omrežna vozlišča v posamezni državi. Z analizo teh podatkov bomo poskusili identificirati ključne dejavnike globalnega segrevanja in napovedati trende rasti temperature v Sloveniji skozi čas.
 
-CILJI IN VPRAŠANJA
-   -Kdaj se je začela sprememba v ozračju Slovenije.
-   -Za koliko stopinj se je ozračje spremenilo.
-   -Kakšne posledice ima to na Slovenijo
+CILJI IN VPRAŠANJA<br>
+   -Kdaj se je začela sprememba v ozračju Slovenije.<br>
+   -Za koliko stopinj se je ozračje spremenilo.<br>
+   -Kakšne posledice ima to na Slovenijo<br>
    -Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".
    
 
