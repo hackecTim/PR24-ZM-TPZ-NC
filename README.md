@@ -24,11 +24,9 @@ Izvedene analize:
 
 2. Analiza
    
-   Pri drugi analizi smo želeli prikazati povprečno temperaturo za hladne in tople mesece med leti 1980 in 2020. Najprej smo izračunali povprečno temperaturo za vsak mesec v obdobju 
-   od leta 1980 do 2020.
+   Pri drugi analizi smo želeli prikazati povprečno temperaturo za hladne in tople mesece med leti 1980 in 2020. 
    
-   <img width="326"  alt="image" src="https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/7d21fac6-e667-4f40-a863-153337d89c1e">
-   
+   <img width="326"  alt="image" src="https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/7d21fac6-e667-4f40-a863-153337d89c1e"><br>
    Slika prikazuje povprečno temperaturo vseh mesecov skozi leta 1980 do 2020.
    
    Podatke smo združili in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
@@ -42,7 +40,8 @@ Izvedene analize:
 
    Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020. Pregledali smo vsa dnevna povprečja med letoma 1980 in 2020 ter med 
    pregledom poiskali najtoplejši in najhladnejši dan.
-   S tem smo ugotovili, da je bil med letoma 1980 in 2020 najhladnejši dne dan 07.01.1985 s temperaturo -15.26°C, medtem ko je bil najtoplejši dan dne 04.08.2017 s temperaturo 28.77°C.
+   S tem smo ugotovili, da je bil med letoma 1980 in 2020 najhladnejši dan dne 07.01.1985 s temperaturo -15.26°C, medtem ko je bil najtoplejši dan dne 04.08.2017 s temperaturo 
+   28.77°C. Največji razpon med našimi podatki je približno 45°C.
    
    
 4. Analiza
@@ -54,14 +53,14 @@ Izvedene analize:
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/3651762a-e6a7-4220-a8e5-b9d1b570943c)
    Graf prikazuje povprečno temperaturo Slovenije za vsa leta med 1980 in 2020.
 
-   Potem smo izračunali razliko med povprečno temperaturo Slovenije med leti 1980 do 2020. S tem smo ugotovili, da se je največja razlika zgodila med letoma 2010 do 2011 za 1,4°C.
+   Potem smo poiskali največji preskok v temperaturi, ki se je zgodila iz leta v leto. S tem smo ugotovili, da se je največji preskok zgodil iz leta 2010 do 
+   2011 in to za 1,4°C.
 
  
 Glavne ugotovitve: 
 
    - S pomočjo analize podatkov smo ugotovili, kdaj se je začela sprememba ozračja in temperature v Sloveniji. To smo prikazali s pomočjo grafa in ugotovili, da se je temperatura 
-     začela 
-     konstantno spreminjati leta 2005-2006.
+     začela konstantno spreminjati leta 2005, 2006.
    - Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da se je ozračje Slovenije povišalo za 3°C, torej v povprečju 0.075°C na leto.
        - Najvišja razlika povprečne temperature, se je zgodila med letoma se je zgodila leta 2010-2011 za 1.4°C.
    - Najtoplejši dan je bil leta 07.01.1985 s povprečno temperaturo -15.26 in najhladnejši dan je bil leta 04.08.2017.
