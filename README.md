@@ -56,9 +56,13 @@ Izvedene analize:
    Potem smo poiskali največji preskok v temperaturi, ki se je zgodila iz leta v leto. S tem smo ugotovili, da se je največji preskok zgodil iz leta 2010 do 
    2011 in to za 1,4°C.
 
+Nadaljnje analize, ki jih lahko še dodamo.
+-Analiza iskanja najhladnejše-najtoplejše države v Evropi,
+-Gručenje držav s podobnimi temperaturami(države osrednje Evrope verjetno v isti skupini)
+-Kdaj se je začela sprememba v ozračju Evrope.
+-Primerjava Slovenije in celotne Evrope.
  
-Glavne ugotovitve: 
-
+Glavne ugotovitve: <br>
    - S pomočjo analize podatkov smo ugotovili, kdaj se je začela sprememba ozračja in temperature v Sloveniji. To smo prikazali s pomočjo grafa in ugotovili, da se je temperatura 
      začela konstantno spreminjati leta 2005, 2006.
    - Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da se je ozračje Slovenije povišalo za 3°C, torej v povprečju 0.075°C na leto.
@@ -67,9 +71,10 @@ Glavne ugotovitve:
        - S tem lahko tudi potrdimo, da so se dnevi povprečno ogreli.
    
 
-Glavni oziroma najzanimivejši rezultati:
-
+Glavni oziroma najzanimivejši rezultati:<br>
    -Najzanimivejša je bila ugotovitev, da je poletje v povprečju le za 10°C toplejše, kot pa spomlad in jesen.
+
+
 
 
 
