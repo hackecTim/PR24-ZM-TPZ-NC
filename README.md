@@ -55,11 +55,10 @@ Izvedene analize:
 
    Potem smo poiskali največji preskok v temperaturi, ki se je zgodila iz leta v leto. S tem smo ugotovili, da se je največji preskok zgodil iz leta 2010 do 
    2011 in to za 1,4°C.
-5. Analiza
+5. Analiza<br>
    Pri peti analizi smo napovedali rast temperature Slovenija čez 10 let. To smo naredili tako, da smo pridobili za vsako desetletje od 1980 do 2020 povprečno temperaturo in to delili s 10, da smo pridobili rast temperature tistega 
    desetletja. S temu smo ugotovili zaskrbljujoče napovedi, da lahko pričakujem rast temperature do 2030 za 0.93°C.
 
-   
 Nadaljnje analize, ki jih lahko še dodamo.
 -Analiza iskanja najhladnejše-najtoplejše države v Evropi,
 -Gručenje držav s podobnimi temperaturami(države osrednje Evrope verjetno v isti skupini)
@@ -73,6 +72,7 @@ Glavne ugotovitve: <br>
        - Najvišja razlika povprečne temperature, se je zgodila med letoma se je zgodila leta 2010-2011 za 1.4°C.
    - Najtoplejši dan je bil leta 07.01.1985 s povprečno temperaturo -15.26 in najhladnejši dan je bil leta 04.08.2017.
        - S tem lahko tudi potrdimo, da so se dnevi povprečno ogreli.
+   -Pričakovana sprememba v temperaturi ozračja Slovenije je za 0.93°C.
    
 
 Glavni oziroma najzanimivejši rezultati:<br>
