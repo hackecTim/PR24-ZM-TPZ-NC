@@ -10,10 +10,11 @@ V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki pri
 Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z najnovejšimi merjenji, da bi ugotovili, kako hitro se temperature dvigajo in kateri meseci ali letni časi kažejo največje spremembe. To bo omogočilo boljše razumevanje, kako se podnebne spremembe odražajo v različnih delih Evrope in kako se razlikujejo od globalnih povprečij.
 
 ## CILJI IN VPRAŠANJA<br>
-   <li>Kdaj se je začela sprememba v ozračju Slovenije.</li>
-   <li>Za koliko stopinj se je ozračje spremenilo.</li>
-   <li>Kakšne posledice ima to na Slovenijo</li>
-   <li>Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".</li>
+   <li>Kdaj se je začela sprememba v ozračju Slovenije?</li>
+   <li>Za koliko stopinj se je ozračje spremenilo?</li>
+   <li>Kakšne posledice ima to na Slovenijo?</li>
+   <li>Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno"?</li>
+   <li>Ponoviti analize za sosednje države, če obstaja kakšen vzorec.</li>
 
 ## Analize
 Izvedene analize:
