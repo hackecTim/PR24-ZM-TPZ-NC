@@ -1,61 +1,84 @@
-VROČA SLOVENIJA
+# VROČA SLOVENIJA
+### Projekt pri predmetu Podatkovno Rudarjenje<br>Člani: Žiga Modrić, Tim Žlindra Pristavec, Nejc Černelč
 
-Soočamo se z izzivom globalnega segrevanja in njegovim učinkom na temperaturo Zemlje. Osredotočili se bomo na podatke, specifične za Evropo, kjer so kot posledice tega fenomena zaznavna toplejša poletja in milejše zime.
+Globalno segrevanje predstavlja enega največjih okoljskih izzivov našega časa, z vidnimi vplivi na globalno temperaturo in podnebne vzorce. V tem kontekstu bomo raziskali vpliv pojava v Evropi, kjer smo v zadnjih letih priča vse toplejšim poletjem in milejšim zimam, kar predstavlja jasen signal naraščajočih temperatur zaradi globalnega segrevanja.
 
-Opis podatkov: Podatki so predstavljeni ločeno za vsako evropsko državo in vključujejo informacije o temperaturi, merjeni na uro. Podatke je zbrala platforma Renewables.ninja s pomočjo NASA-ine ponovne analize MERRA-2. Zajeti so za vse evropske države, pri čemer je uporabljeno populacijsko povprečje za vsa MERRA-2 omrežna vozlišča v posamezni državi. Z analizo teh podatkov bomo poskusili identificirati ključne dejavnike globalnega segrevanja in napovedati trende rasti temperature v Sloveniji skozi čas.
+Naša raziskava se osredotoča na podatkovni nabor, specifičen za Evropo, ki ponuja obsežne informacije o temperaturi, merjene na uro, za vsako evropsko državo posebej. Podatki, ki smo jih pridobili od platforme Renewables.ninja, temeljijo na NASA-ini ponovni analizi MERRA-2, ki zagotavlja zanesljive in natančne podatkovne točke. Ta analiza pokriva vse evropske države in uporablja populacijsko povprečje za omrežna vozlišča MERRA-2 znotraj vsake države.
 
-CILJI IN VPRAŠANJA<br>
-   -Kdaj se je začela sprememba v ozračju Slovenije.<br>
-   -Za koliko stopinj se je ozračje spremenilo.<br>
-   -Kakšne posledice ima to na Slovenijo<br>
-   -Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".
-   -Opcijsko (Kateri dejavniki vplivajo na toplotno ogrevanje v Sloveniji.)
-   
+V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki prispevajo k globalnemu segrevanju, in poskušali identificirati vzorce, ki bi lahko napovedali prihodnje temperature. Posebno pozornost bomo namenili Sloveniji, kjer bomo preučili, kako trendi globalnega segrevanja vplivajo na lokalni ravni.
+
+Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z najnovejšimi merjenji, da bi ugotovili, kako hitro se temperature dvigajo in kateri meseci ali letni časi kažejo največje spremembe. To bo omogočilo boljše razumevanje, kako se podnebne spremembe odražajo v različnih delih Evrope in kako se razlikujejo od globalnih povprečij.
+
+## CILJI IN VPRAŠANJA<br>
+   <li>Kdaj se je začela sprememba v ozračju Slovenije.</li>
+   <li>Za koliko stopinj se je ozračje spremenilo.</li>
+   <li>Kakšne posledice ima to na Slovenijo</li>
+   <li>Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".</li>
 
 Izvedene analize:
-1. Analiza
+### 1. Analiza - Temperatura v Sloveniji med letom 1981 in 2019
    
-   Prebrali smo vse podatke iz baze za Slovenijo in primerjali leto 1981 in leto 2019. Najprej smo izračunali povprečno temperaturo na dan obeh let in to prikazali s pomočjo grafa. Graf je prikazan spodaj.
+   Prebrali smo vse podatke iz baze za Slovenijo in izbrali spodnjo in zgornjo mejo podatkov in med njima naredili primerjavo. Izbrali smo 1981 in 2019, saj obe leti nista prestopna leta in ne bo težav pri izdelavi grafa.
+   Najprej smo izračunali povprečno temperaturo na dan obeh let in to prikazali s pomočjo grafa. Graf je prikazan spodaj.
    
-   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/fce9bbd7-08f9-497a-8807-4256032fd1b8)
-   Iz tega grafa lahko opazimo, da je leto 2019 bilo v povprečju toplejše. Najbolj je pa zanimivo to, da je med majom in julijem bil leta 1981 padec kljub temu, da je v temu času 
-   pričakovana najvišja temperatura leta, kakor na primer leta 2019. 
+   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/4e1e679e-ede6-4863-9094-4333b9b585df)
+
+   Iz grafa je razvidno, da je bilo leto 2019 v povprečju toplejše. Še posebej zanimiv je podatek, da je med majem in julijem leta 1981 prišlo do padca temperatur, čeprav bi v tem obdobju pričakovali najvišje temperature leta, podobno kot v letu 2019.
    
 
-2. Analiza
+### 2. Analiza - Povprečna temperatura mescev
    
    Pri drugi analizi smo želeli prikazati povprečno temperaturo za hladne in tople mesece med leti 1980 in 2020. 
    
-   <img width="326"  alt="image" src="https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/7d21fac6-e667-4f40-a863-153337d89c1e"><br>
-   Slika prikazuje povprečno temperaturo vseh mesecov skozi leta 1980 do 2020.
+   ![table](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/6a3f11c5-2600-4c4a-a068-77a7a0ec2acb)
+   Slika prikazuje povprečno temperaturo vseh mesecov skozi leta 1980 do 2020. Za Slovenijo je bil najhladnejši mesec januar, najtoplejši pa julij. Pri ostalih državah so pa ugotovitve podobne.
+
    
-   Podatke smo združili in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
-   2020. Graf je prikazan spodaj.
-   
+   Podatke smo še prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
+   2020. Graf je prikazan spodaj.   
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/33842c6a-c645-43d3-be18-224a6c94b7ec)
-   Graf prikazuje povprečno temperaturo za mesece december, januar in februar v obdobju od leta 1980 do 2020.
+   
+   Graf razkriva povečanje povprečnih temperatur za december, januar in februar od leta 1980 do 2020, kar lahko nakazuje na vpliv globalnega segrevanja. Izraziti temperaturni padci in vzponi so vidni v letih 1985, 1996 in 2010. Posebej hladna obdobja v začetku 80-ih in sredi 90-ih izstopajo z izjemno nizkimi temperaturami. Čeprav je januar običajno najhladnejši mesec, to še ne pomeni, da ima najhladnejše dni. Opazimo tudi trend zvišanja minimalnih zimskih temperatur v zadnjih letih, kar kaže na manj ekstremno mrzle zime.
    
 
-3. Analiza
+### 3. Analiza - hladni in topli meseci
 
-   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020. Pregledali smo vsa dnevna povprečja med letoma 1980 in 2020 ter med 
-   pregledom poiskali najtoplejši in najhladnejši dan.
+   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020. Pregledali smo vsa dnevna povprečja ter poiskali najtoplejši in najhladnejši dan.
    S tem smo ugotovili, da je bil med letoma 1980 in 2020 najhladnejši dan dne 07.01.1985 s temperaturo -15.26°C, medtem ko je bil najtoplejši dan dne 04.08.2017 s temperaturo 
-   28.77°C. Največji razpon med našimi podatki je približno 45°C.
-   
-   
-4. Analiza
-   
-   Pri četrti analizi smo poskušali ugotoviti, kakšna je bila razlika v povprečni temperaturi Slovenije med letoma 1980 in 2020. Ugotovili smo, za koliko stopinj se je povprečna 
-   temperatura v tem obdobju povečala, ter identificirali leti, med katerima je bila največja razlika v povprečni temperaturi.
-   Najprej smo izračunali povprečno temperaturo Slovenije za vsa leta med 1980 in 2020 in to prikazali z grafom.
+   28.77°C. Največji razpon med našimi podatki je približno 45°C.<br>
 
-   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/3651762a-e6a7-4220-a8e5-b9d1b570943c)
-   Graf prikazuje povprečno temperaturo Slovenije za vsa leta med 1980 in 2020.
+   <b>Slovenija</b><br>
+   Najhladnejši dan je bil 07.01.1985 s temperaturo -15.26 °C.<br>
+   Najbolj vroč dan je bil 04.08.2017 s temperaturo 28.77 °C.<br>
+   
+   <b>Avstrija</b><br>
+   Najhladnejši dan je bil 12.01.1987 s temperaturo -19.91 °C.<br>
+   Najbolj vroč dan je bil 03.08.2013 s temperaturo 26.29 °C.<br>
+   
+   <b>Italija</b><br>
+   Najhladnejši dan je bil 10.01.1985 s temperaturo -4.62 °C.<br>
+   Najbolj vroč dan je bil 04.08.2017 s temperaturo 30.70 °C.<br>
 
-   Potem smo poiskali največji preskok v temperaturi, ki se je zgodila iz leta v leto. S tem smo ugotovili, da se je največji preskok zgodil iz leta 2010 do 
-   2011 in to za 1,4°C.
-5. Analiza<br>
+   <b>Hrvaška</b><br>
+   Najhladnejši dan je bil 31.01.1987 s temperaturo -13.02 °C<br>
+   Najbolj vroč dan je bil 04.08.2017 s temperaturo 30.91 °C<br>
+   
+   <b>Madžarska</b><br>
+   Najhladnejši dan je bil 13.01.1987 s temperaturo -19.72 °C.<br>
+   Najbolj vroč dan je bil 20.07.2007 s temperaturo 32.15 °C.<br>
+   
+### 4. Analiza - Rast temperature skozi leta
+   
+   Pri četrti analizi smo poskušali ugotoviti kakšen je bil potek potek rasti temperature za Slovenijo in sosednje države, identificirati smo želeli tudi katerega leta je prišlo do največjega preskoka temperature. 
+   To smo dosegli tako, da smo za vsako državo izračunali povprečne letne temperature in začetno temperaturo postavili na vrednost 0.
+   
+   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/61b7a9a9-5db8-45be-816a-695fc586e2d5)
+
+   S pomočjo grafa smo poiskali največji preskok v temperaturi, ki se je zgodila iz leta v leto. Največji preskok se je zgodil iz leta 2010 na leto 
+   2011 za 1,4 °C. Na grafu je zelo dobro razviden trend rasti temperature v sosednjih državah, nekaj odstopanj je tudi vidno, na katere so najverjetneje vplivale različne podnebne razmere.
+
+   
+### 5. Analiza<br>
    Pri peti analizi smo napovedali rast temperature Slovenija čez 10 let. To smo naredili tako, da smo pridobili za vsako desetletje od 1980 do 2020 povprečno temperaturo in to delili s 10, da smo pridobili rast temperature tistega 
    desetletja. S temu smo ugotovili zaskrbljujoče napovedi, da lahko pričakujem rast temperature do 2030 za 0.93°C.
 
