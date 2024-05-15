@@ -1,11 +1,11 @@
 # VROČA SLOVENIJA
 ### Projekt pri predmetu Podatkovno Rudarjenje<br>Člani: Žiga Modrić, Tim Žlindra Pristavec, Nejc Černelč
 
-Globalno segrevanje predstavlja enega največjih okoljskih izzivov našega časa, z vidnimi vplivi na globalno temperaturo in podnebne vzorce. V tem kontekstu bomo raziskali vpliv pojava v Evropi, kjer smo v zadnjih letih priča vse toplejšim poletjem in milejšim zimam, kar predstavlja jasen signal naraščajočih temperatur zaradi globalnega segrevanja.
+Globalno segrevanje se uveljavlja kot eden najpomembnejših okoljskih izzivov sodobnosti, s takojšnjimi učinki na svetovne temperature in podnebne vzorce. V naši raziskavi bomo raziskali vpliv pojava v Evropi, kjer smo v zadnjih letih priča vse toplejšim poletjem in milejšim zimam, kar predstavlja jasen signal naraščajočih temperatur zaradi globalnega segrevanja.
 
-Naša raziskava se osredotoča na podatkovni nabor, specifičen za Evropo, ki ponuja obsežne informacije o temperaturi, merjene na uro, za vsako evropsko državo posebej. Podatki, ki smo jih pridobili od platforme Renewables.ninja, temeljijo na NASA-ini ponovni analizi MERRA-2, ki zagotavlja zanesljive in natančne podatkovne točke. Ta analiza pokriva vse evropske države in uporablja populacijsko povprečje za omrežna vozlišča MERRA-2 znotraj vsake države.
+Naš pristop je osredotočen na specifičen nabor podatkov za Evropo, ki zagotavlja obsežne informacije o temperaturah, merjenih na uro, po posameznih evropskih državah. Podatke smo pridobili od platforme Renewables.ninja, ki temelji na ponovni analizi MERRA-2 NASA, kar nam omogoča dostop do zanesljivih in natančnih temperaturnih zapisov za vsako državo, upoštevajoč populacijsko povprečje za njena omrežna vozlišča.
 
-V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki prispevajo k globalnemu segrevanju, in poskušali identificirati vzorce, ki bi lahko napovedali prihodnje temperature. Posebno pozornost bomo namenili Sloveniji, kjer bomo preučili, kako trendi globalnega segrevanja vplivajo na lokalni ravni.
+V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki prispevajo k globalnemu segrevanju, in poskušali identificirati vzorce, ki bi lahko napovedali prihodnje temperature. Posebno pozornost bomo posvetili Sloveniji, da bi razumeli, kako globalni trendi vplivajo na lokalne razmere.
 
 Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z najnovejšimi merjenji, da bi ugotovili, kako hitro se temperature dvigajo in kateri meseci ali letni časi kažejo največje spremembe. To bo omogočilo boljše razumevanje, kako se podnebne spremembe odražajo v različnih delih Evrope in kako se razlikujejo od globalnih povprečij.
 
@@ -77,7 +77,7 @@ Izvedene analize:
    2011 za 1,4 °C. Na grafu je zelo dobro razviden trend rasti temperature v sosednjih državah, nekaj odstopanj je tudi vidno, na katere so najverjetneje vplivale različne podnebne razmere.
 
    
-### 5. Analiza<br>
+### 5. Analiza - Napoved temperature v Sloveniji leta 2029<br>
    Pri peti analizi smo napovedali rast temperature Slovenija čez 10 let. To smo naredili tako, da smo pridobili za vsako desetletje od 1980 do 2020 povprečno temperaturo in to delili s 10, da smo pridobili rast temperature tistega 
    desetletja. S temu smo ugotovili zaskrbljujoče napovedi, da lahko pričakujem rast temperature do 2030 za 0.93°C.
 
