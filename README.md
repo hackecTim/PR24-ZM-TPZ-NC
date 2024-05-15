@@ -40,7 +40,6 @@ Izvedene analize:
    
    Graf razkriva povečanje povprečnih temperatur za december, januar in februar od leta 1980 do 2020, kar lahko nakazuje na vpliv globalnega segrevanja. Izraziti temperaturni padci in vzponi so vidni v letih 1985, 1996 in 2010. Posebej hladna obdobja v začetku 80-ih in sredi 90-ih izstopajo z izjemno nizkimi temperaturami. Čeprav je januar običajno najhladnejši mesec, to še ne pomeni, da ima najhladnejše dni. Opazimo tudi trend zvišanja minimalnih zimskih temperatur v zadnjih letih, kar kaže na manj ekstremno mrzle zime.
    
-
 ### 3. Analiza - hladni in topli meseci
 
    Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020. Pregledali smo vsa dnevna povprečja ter poiskali najtoplejši in najhladnejši dan.
