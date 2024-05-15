@@ -77,9 +77,16 @@ Izvedene analize:
    2011 za 1,4 °C. Na grafu je zelo dobro razviden trend rasti temperature v sosednjih državah, nekaj odstopanj je tudi vidno, na katere so najverjetneje vplivale različne podnebne razmere.
 
    
-### 5. Analiza - Napoved temperature v Sloveniji leta 2029<br>
-   Pri peti analizi smo napovedali rast temperature Slovenija čez 10 let. To smo naredili tako, da smo pridobili za vsako desetletje od 1980 do 2020 povprečno temperaturo in to delili s 10, da smo pridobili rast temperature tistega 
-   desetletja. S temu smo ugotovili zaskrbljujoče napovedi, da lahko pričakujem rast temperature do 2030 za 0.93°C.
+### 5. Analiza - Napoved temperature za Slovenijo in sosednje države leta 2029<br>
+
+   Pri peti analizi smo napovedali rast temperature čez 10 let. Glede na podatke iz četrte analize, smo izračunali povprečno rast temperature za vsako desetletje od 1980 do 2020. 
+![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/c3a7ba0a-669e-49cc-9b98-09a0a915f89e)
+Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C, sprememba rasti pa je v povprečju na desetletje večja za 0.05°C. 
+
+Glede na spremembe rasti v desetletjih smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja, ter upoštevali spremembo rasti na desetletje.
+
+![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/fd45f907-c6e9-4517-b23c-aeef2e75d265)
+
 
 Nadaljnje analize, ki jih lahko še dodamo.
 -Analiza iskanja najhladnejše-najtoplejše države v Evropi,
