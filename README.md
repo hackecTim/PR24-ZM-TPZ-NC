@@ -80,28 +80,33 @@ Izvedene analize:
 ### 5. Analiza - Napoved temperature za Slovenijo in sosednje države leta 2029<br>
 
    Pri peti analizi smo napovedali rast temperature čez 10 let. Glede na podatke iz četrte analize, smo izračunali povprečno rast temperature za vsako desetletje od 1980 do 2020. 
-![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/c3a7ba0a-669e-49cc-9b98-09a0a915f89e)<br>
-Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C, sprememba rasti pa je v povprečju na desetletje večja za 0.05°C. 
-Glede na spremembe rasti v desetletjih smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja, ter upoštevali spremembo rasti na desetletje.
-
-![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/fd45f907-c6e9-4517-b23c-aeef2e75d265)<br>
-Za Slovenijo lahko pričakujemo leta 2029, da bo v povprečju temperatura 11.73°C.
-
-Glavne ugotovitve
-
-<li>S pomočjo analize podatkov smo ugotovili, kdaj se je začela sprememba ozračja in temperature v Sloveniji. To smo prikazali s pomočjo grafa in ugotovili, da se je temperatura začela konstantno spreminjati leta 2005, 2006.</li>
-<li>Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da se je ozračje Slovenije povišalo za 3°C, torej v povprečju 0.075°C na leto.</li>
-<li>Najvišja razlika povprečne temperature v Sloveniji se je zgodila med letoma 2010 in 2011 za 1.4°C.</li>
-</li>Najtoplejši dan v Sloveniji je bil 07.01.1985 s povprečno temperaturo -15.26°C in najhladnejši dan je bil 04.08.2017.
-S tem lahko tudi potrdimo, da so se dnevi povprečno ogreli.</li>
-<li>Pričakovana sprememba v temperaturi ozračja Slovenije do leta 2030 je za 0.93°C.</li>
+   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/94ae6c8f-919e-49f4-9f44-2461c2269abd)<br>
    
+   Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C, sprememba rasti pa je v povprečju na desetletje večja za 0.05°C. 
+   Glede na spremembe rasti v desetletjih smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja, ter upoštevali spremembo rasti na desetletje.
+   
+   ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/264cc53b-c548-4d5b-8224-1d380c4b9d50)<br>
+   Za Slovenijo lahko pričakujemo leta 2029, da bo v povprečju temperatura 11.73°C.
 
-Glavni oziroma najzanimivejši rezultati:<br>
-   -Najzanimivejša je bila ugotovitev, da je poletje v povprečju le za 10°C toplejše, kot pa spomlad in jesen.
 
-
-
-
-
+## Glavne ugotovitve
+   <li>S pomočjo analize podatkov smo ugotovili, kdaj se je začela sprememba ozračja in temperature v Sloveniji. To smo prikazali s pomočjo grafa in ugotovili, da se je temperatura začela konstantno spreminjati leta 2005, 2006.</li>
+   
+   <li>Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da se je ozračje Slovenije povišalo za 3°C, torej v povprečju 0.075°C na leto.</li>
+   
+   <li>Najvišja razlika povprečne temperature v Sloveniji se je zgodila med letoma 2010 in 2011 za 1.4°C.</li>
+   
+   <li>Najtoplejši dan v Sloveniji je bil 07.01.1985 s povprečno temperaturo -15.26°C in najhladnejši dan je bil 04.08.2017.
+   S tem lahko tudi potrdimo, da so se dnevi povprečno ogreli.</li>
+   
+   <li>Pričakovana sprememba v temperaturi ozračja Slovenije do leta 2030 je za 0.93°C.</li>
+   
+   <li>V Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C</li>
+   
+   <li>Skozi analize smo tudi potrdili, da ni samo Slovenija žrtev globalnega segrevanja, ampak se tudi sosedne države segrevajo s podobnim trendom. Lahko sklepamo, da to tudi velja za vse ostale države na svetu</li>
+      
+   Najzanimivejši rezultati:<br>
+      <li>Najzanimivejša je bila ugotovitev, da je poletje v povprečju le za 10°C toplejše, kot pa spomlad in jesen.</li>
+      <li>Leta 2029 bo povprečna temperatura 11.7°C, kar je 0.5°C več kot pa sedaj.</li>
+      <li>Leta 2029 se bo najbolj ogrela Hrvaška (za približno 1.19°C), kar je tudi logično, saj je najbolj južna država v raziskavi.</li>
 
