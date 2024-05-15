@@ -80,28 +80,21 @@ Izvedene analize:
 ### 5. Analiza - Napoved temperature za Slovenijo in sosednje države leta 2029<br>
 
    Pri peti analizi smo napovedali rast temperature čez 10 let. Glede na podatke iz četrte analize, smo izračunali povprečno rast temperature za vsako desetletje od 1980 do 2020. 
-![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/c3a7ba0a-669e-49cc-9b98-09a0a915f89e)
+![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/c3a7ba0a-669e-49cc-9b98-09a0a915f89e)<br>
 Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C, sprememba rasti pa je v povprečju na desetletje večja za 0.05°C. 
-
 Glede na spremembe rasti v desetletjih smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja, ter upoštevali spremembo rasti na desetletje.
 
-![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/fd45f907-c6e9-4517-b23c-aeef2e75d265)
+![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/fd45f907-c6e9-4517-b23c-aeef2e75d265)<br>
+Za Slovenijo lahko pričakujemo leta 2029, da bo v povprečju temperatura 11.73°C.
 
+Glavne ugotovitve
 
-Nadaljnje analize, ki jih lahko še dodamo.
--Analiza iskanja najhladnejše-najtoplejše države v Evropi,
--Gručenje držav s podobnimi temperaturami(države osrednje Evrope verjetno v isti skupini)
--Kdaj se je začela sprememba v ozračju Evrope.
--Primerjava Slovenije in celotne Evrope.
- 
-Glavne ugotovitve: <br>
-   - S pomočjo analize podatkov smo ugotovili, kdaj se je začela sprememba ozračja in temperature v Sloveniji. To smo prikazali s pomočjo grafa in ugotovili, da se je temperatura 
-     začela konstantno spreminjati leta 2005, 2006.
-   - Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da se je ozračje Slovenije povišalo za 3°C, torej v povprečju 0.075°C na leto.
-       - Najvišja razlika povprečne temperature, se je zgodila med letoma se je zgodila leta 2010-2011 za 1.4°C.
-   - Najtoplejši dan je bil leta 07.01.1985 s povprečno temperaturo -15.26 in najhladnejši dan je bil leta 04.08.2017.
-       - S tem lahko tudi potrdimo, da so se dnevi povprečno ogreli.
-   -Pričakovana sprememba v temperaturi ozračja Slovenije je za 0.93°C.
+<li>S pomočjo analize podatkov smo ugotovili, kdaj se je začela sprememba ozračja in temperature v Sloveniji. To smo prikazali s pomočjo grafa in ugotovili, da se je temperatura začela konstantno spreminjati leta 2005, 2006.</li>
+<li>Z analizo povprečne temperature skozi leta 1980 do 2020 smo ugotovili, da se je ozračje Slovenije povišalo za 3°C, torej v povprečju 0.075°C na leto.</li>
+<li>Najvišja razlika povprečne temperature v Sloveniji se je zgodila med letoma 2010 in 2011 za 1.4°C.</li>
+</li>Najtoplejši dan v Sloveniji je bil 07.01.1985 s povprečno temperaturo -15.26°C in najhladnejši dan je bil 04.08.2017.
+S tem lahko tudi potrdimo, da so se dnevi povprečno ogreli.</li>
+<li>Pričakovana sprememba v temperaturi ozračja Slovenije do leta 2030 je za 0.93°C.</li>
    
 
 Glavni oziroma najzanimivejši rezultati:<br>
