@@ -15,6 +15,7 @@ Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z naj
    <li>Kakšne posledice ima to na Slovenijo</li>
    <li>Za koliko stopinj lahko pričakujemo rast v roku 10 let, če se ne priklopimo na "Zeleno".</li>
 
+## Analize
 Izvedene analize:
 ### 1. Analiza - Temperatura v Sloveniji med letom 1981 in 2019
    
