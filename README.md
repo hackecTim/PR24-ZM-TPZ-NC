@@ -3,9 +3,11 @@
 
 Globalno segrevanje se uveljavlja kot eden najpomembnejših okoljskih izzivov sodobnosti, s takojšnjimi učinki na svetovne temperature in podnebne vzorce. V naši raziskavi bomo raziskali vpliv pojava v Evropi, kjer smo v zadnjih letih priča vse toplejšim poletjem in milejšim zimam, kar predstavlja jasen signal naraščajočih temperatur zaradi globalnega segrevanja.
 
-Naš pristop je osredotočen na specifičen nabor podatkov za Evropo, ki zagotavlja obsežne informacije o temperaturah, merjenih na uro, po posameznih evropskih državah. Podatke smo pridobili od platforme Renewables.ninja, ki temelji na ponovni analizi MERRA-2 NASA, kar nam omogoča dostop do zanesljivih in natančnih temperaturnih zapisov za vsako državo, upoštevajoč populacijsko povprečje za njena omrežna vozlišča.
+Naš pristop je osredotočen na specifičen nabor podatkov za Evropo, ki zagotavlja obsežne informacije o temperaturah, merjenih na uro, po posameznih evropskih državah.
+Podatke smo pridobili od platforme Renewables.ninja, ki temelji na ponovni analizi MERRA-2 NASA, kar nam omogoča dostop do zanesljivih in natančnih temperaturnih zapisov za vsako državo, upoštevajoč populacijsko povprečje za njena omrežna vozlišča.
+Izbrali smo prosto dostopne podatke, ki obsegajo obdobje od leta 1980 do 2020. Temperature so merjene vsako uro, kar pomeni, da so podatki predstavljeni v obliki urnih meritev za posamezno evropsko državo, in vsebujejo 350.641 primerov ter 29 atributov.
 
-V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki prispevajo k globalnemu segrevanju, in poskušali identificirati vzorce, ki bi lahko napovedali prihodnje temperature. Posebno pozornost bomo posvetili Sloveniji, da bi razumeli, kako globalni trendi vplivajo na lokalne razmere.
+V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki prispevajo k globalnemu segrevanju, in poskušali identificirati vzorce, ki bi lahko napovedali prihodnje temperature. Posebno pozornost bomo posvetili Sloveniji, da bi razumeli, kako globalni trendi vplivajo na lokalne razmere, prav tako bomo preverili za sosednje države, da vidimo če je pri njih tudi podobno kot pri Sloveniji.
 
 Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z najnovejšimi merjenji, da bi ugotovili, kako hitro se temperature dvigajo in kateri meseci ali letni časi kažejo največje spremembe. To bo omogočilo boljše razumevanje, kako se podnebne spremembe odražajo v različnih delih Evrope in kako se razlikujejo od globalnih povprečij.
 
@@ -25,18 +27,18 @@ Izvedene analize:
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/4e1e679e-ede6-4863-9094-4333b9b585df)
 
-   Iz grafa je razvidno, da je bilo leto 2019 v povprečju toplejše. Še posebej zanimiv je podatek, da je med majem in julijem leta 1981 prišlo do padca temperatur, čeprav bi v tem obdobju pričakovali najvišje temperature leta, podobno kot v letu 2019.
+   Iz grafa je razvidno, da je bilo leto 2019 v povprečju toplejše. Posebej zanimivo je, da je med majem in julijem leta 1981 prišlo do padca temperatur, pri čemer je bila razlika med letom 1981 in 2019 v tem obdobju približno 20°C, čeprav bi v tem času pričakovali    najvišje temperature, kot v letu 2019. Prav tako je zanimivo, da je proti koncu leta, decembra 2019, prišlo do nenadnega segrevanja s približno 17°C razliko med letoma, čeprav bi bilo pričakovano ohlajanje.
    
 
 ### 2. Analiza - Povprečna temperatura mescev
    
-   Pri drugi analizi smo želeli prikazati povprečno temperaturo za hladne in tople mesece med leti 1980 in 2020. 
+   Pri drugi analizi smo želeli prikazati povprečno temperaturo za vse mesece, predvsem pa za hladne in tople mesece med leti 1980 in 2020.
    
    ![table](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/6a3f11c5-2600-4c4a-a068-77a7a0ec2acb)
-   Slika prikazuje povprečno temperaturo vseh mesecov skozi leta 1980 do 2020. Za Slovenijo je bil najhladnejši mesec januar, najtoplejši pa julij. Pri ostalih državah so pa ugotovitve podobne.
+   Slika prikazuje povprečne temperature za vse mesece v obdobju od leta 1980 do 2020. Za Slovenijo je bil najhladnejši mesec januar, najtoplejši pa julij, kar je skladno s sezonskimi pričakovanji. Podobne ugotovitve smo opazili tudi pri drugih sosednjih državah. Italija se izkazuje kot najtoplejša država, saj prevladuje s svojimi visokimi temperaturami skozi vse mesece in letne čase. Nasprotno je Avstrija najhladnejša država, z najnižjimi povprečnimi temperaturami skozi celotno leto. Te ugotovitve potrjujejo znane geografske in podnebne značilnosti regije, kjer Italija zaradi svojega južnega položaja in mediteranskega podnebja uživa mile zime in vroča poletja, medtem ko Avstrija zaradi svojega alpskega reliefa in višje nadmorske višine doživlja bolj mrzle zime in milejša poletja.
 
    
-   Podatke smo še prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
+   Izbrali smo podatke za hladne mesece od Slovenije in jih prikazali v grafu, ki prikazuje, kako se je povprečna temperatura najhladnejših mesecev spreminjala v obdobju od leta 1980 do 
    2020. Graf je prikazan spodaj.   
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/150348985/33842c6a-c645-43d3-be18-224a6c94b7ec)
    
