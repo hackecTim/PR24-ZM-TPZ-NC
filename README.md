@@ -22,17 +22,16 @@ Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z naj
 Izvedene analize:
 ### 1. Analiza - Temperatura v Sloveniji med letom 1981 in 2019
    
-   Prebrali smo vse podatke iz baze za Slovenijo in izbrali spodnjo in zgornjo mejo podatkov in med njima naredili primerjavo. Izbrali smo leto 1981 in 2019, saj obe leti nista prestopna leta in ne bo težav pri izdelavi grafa.
-   Najprej smo izračunali povprečno temperaturo na dan obeh let in to prikazali s pomočjo grafa. Graf je prikazan spodaj.
+   Prebrali smo vse podatke iz baze za Slovenijo in izbrali spodnjo in zgornjo mejo podatkov in med njima naredili primerjavo. Leto 1980 smo preskočili, saj je bilo takrat leto prestopno in bi imeli probleme z risanjem grafa, zato smo se raje odločili za prikaz z leti 1981 in 2019. Preskočitev leta ne bo imela pretiranega vpliva na rezultat, saj nas v tej analizi predvsem zanima na sploh sprememba temperature v Sloveniji. Najprej smo izračunali povprečno temperaturo na dan obeh let in to prikazali s pomočjo grafa. Graf je prikazan spodaj.
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/4e1e679e-ede6-4863-9094-4333b9b585df)
 
-   Iz grafa je razvidno, da je bilo leto 2019 v povprečju toplejše. Posebej zanimivo je, da je med majem in julijem leta 1981 prišlo do padca temperatur, pri čemer je bila razlika med letom 1981 in 2019 v tem obdobju približno 20°C, čeprav bi v tem času pričakovali    najvišje temperature, kot v letu 2019. Prav tako je zanimivo, da je proti koncu leta, decembra 2019, prišlo do nenadnega segrevanja s približno 17°C razliko med letoma, čeprav bi bilo pričakovano ohlajanje.
+   Iz grafa je razvidno, da je bilo leto 2019 v povprečju toplejše. Posebej zanimivo je, da je med majem in julijem leta 1981 prišlo do padca temperatur, pri čemer je bila razlika med letom 1981 in 2019 v tem obdobju približno 20°C, čeprav bi v tem času pričakovali    najvišje temperature, kakor je vidno v letu 2019. Prav tako je zanimivo, da je proti koncu leta, decembra 2019, prišlo do nenadnega segrevanja s približno 17°C razliko med letoma, čeprav bi bilo pričakovano ohlajanje.
    
 
 ### 2. Analiza - Povprečna temperatura mescev
    
-   Pri drugi analizi smo želeli prikazati povprečno temperaturo za vse mesece, predvsem pa za hladne in tople mesece med leti 1980 in 2020.
+   Pri drugi analizi smo želeli prikazati povprečno temperaturo za vse mesece, predvsem pa za hladne in tople mesece med leti 1980 in 2020. Za Slovenijo in njene sosedne države smo najprej izračunali povprečno temperaturo na mesec, in posledično izračunali še povprečno temperaturo za posamezni letni čas.
    
    ![table](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/6a3f11c5-2600-4c4a-a068-77a7a0ec2acb)
    Slika prikazuje povprečne temperature za vse mesece v obdobju od leta 1980 do 2020. Za Slovenijo je bil najhladnejši mesec januar, najtoplejši pa julij, kar je skladno s sezonskimi pričakovanji. Podobne ugotovitve smo opazili tudi pri drugih sosednjih državah. Italija se izkazuje kot najtoplejša država, saj prevladuje s svojimi visokimi temperaturami skozi vse mesece in letne čase. Nasprotno je Avstrija najhladnejša država, z najnižjimi povprečnimi temperaturami skozi celotno leto. Te ugotovitve potrjujejo znane geografske in podnebne značilnosti regije, kjer Italija zaradi svojega južnega položaja in mediteranskega podnebja uživa mile zime in vroča poletja, medtem ko Avstrija zaradi svojega alpskega reliefa in višje nadmorske višine doživlja bolj mrzle zime in milejša poletja.
