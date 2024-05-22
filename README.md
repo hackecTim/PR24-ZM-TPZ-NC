@@ -7,7 +7,7 @@ Naš pristop je osredotočen na specifičen nabor podatkov za Evropo, ki zagotav
 Podatke smo pridobili od platforme Renewables.ninja, ki temelji na ponovni analizi MERRA-2 NASA, kar nam omogoča dostop do zanesljivih in natančnih temperaturnih zapisov za vsako državo, upoštevajoč populacijsko povprečje za njena omrežna vozlišča.
 Izbrali smo prosto dostopne podatke, ki obsegajo obdobje od leta 1980 do 2020. Temperature so merjene vsako uro, kar pomeni, da so podatki predstavljeni v obliki urnih meritev za posamezno evropsko državo, in vsebujejo 350.641 primerov ter 29 atributov.
 
-V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki prispevajo k globalnemu segrevanju, in poskušali identificirati vzorce, ki bi lahko napovedali prihodnje temperature. Posebno pozornost bomo posvetili Sloveniji, da bi razumeli, kako globalni trendi vplivajo na lokalne razmere, prav tako bomo preverili za sosednje države, da vidimo če je pri njih tudi podobno kot pri Sloveniji.
+V nadaljevanju bomo uporabili te podatke za analizo ključnih dejavnikov, ki prispevajo k globalnemu segrevanju, in poskušali identificirati vzorce, ki bi lahko napovedali prihodnje temperature. Posebno pozornost bomo posvetili Sloveniji, da bi razumeli, kako globalni trendi vplivajo na lokalne razmere. Preverili bomo tudi podatke za sosednje države, za katere sklepamo, da bodo sledile podobnemu trendu.
 
 Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z najnovejšimi merjenji, da bi ugotovili, kako hitro se temperature dvigajo in kateri meseci ali letni časi kažejo največje spremembe. To bo omogočilo boljše razumevanje, kako se podnebne spremembe odražajo v različnih delih Evrope in kako se razlikujejo od globalnih povprečij.
 
@@ -22,7 +22,7 @@ Analiza bo vključevala primerjavo temperaturnih podatkov iz preteklih let z naj
 Izvedene analize:
 ### 1. Analiza - Temperatura v Sloveniji med letom 1981 in 2019
    
-   Prebrali smo vse podatke iz baze za Slovenijo in izbrali spodnjo in zgornjo mejo podatkov in med njima naredili primerjavo. Izbrali smo 1981 in 2019, saj obe leti nista prestopna leta in ne bo težav pri izdelavi grafa.
+   Prebrali smo vse podatke iz baze za Slovenijo in izbrali spodnjo in zgornjo mejo podatkov in med njima naredili primerjavo. Izbrali smo leto 1981 in 2019, saj obe leti nista prestopna leta in ne bo težav pri izdelavi grafa.
    Najprej smo izračunali povprečno temperaturo na dan obeh let in to prikazali s pomočjo grafa. Graf je prikazan spodaj.
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/4e1e679e-ede6-4863-9094-4333b9b585df)
@@ -46,10 +46,10 @@ Izvedene analize:
    
 ### 3. Analiza - hladni in topli meseci
 
-   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020 za Slovenijo in njene sosednje države. Pregledali smo vsa dnevna povprečja ter identificirali najtoplejši in najhladnejši dan.
+   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020 za Slovenijo. Pregledali smo vsa dnevna povprečja ter identificirali najtoplejši in najhladnejši dan.
    Za Slovenijo je bil najhladnejši dan 7. januar 1985 s temperaturo -15,26°C, medtem ko je bil najtoplejši dan 4. avgust 2017 s temperaturo 28,77°C. Razlika med tema dvema dnevoma je približno 44°C.<br>
 
-   Izvedli smo podobno analizo za Slovenijo in njene sosednje države:
+   Izvedli smo podobno analizo za sosednje države:
 
    <b>Slovenija</b><br>
    Najhladnejši dan je bil 07.01.1985 s temperaturo -15.26 °C.<br>
