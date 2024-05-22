@@ -46,29 +46,37 @@ Izvedene analize:
    
 ### 3. Analiza - hladni in topli meseci
 
-   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020. Pregledali smo vsa dnevna povprečja ter poiskali najtoplejši in najhladnejši dan.
-   S tem smo ugotovili, da je bil med letoma 1980 in 2020 najhladnejši dan dne 07.01.1985 s temperaturo -15.26°C, medtem ko je bil najtoplejši dan dne 04.08.2017 s temperaturo 
-   28.77°C. Največji razpon med našimi podatki je približno 45°C.<br>
+   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020 za Slovenijo in njene sosednje države. Pregledali smo vsa dnevna povprečja ter identificirali najtoplejši in najhladnejši dan.
+   Za Slovenijo je bil najhladnejši dan 7. januar 1985 s temperaturo -15,26°C, medtem ko je bil najtoplejši dan 4. avgust 2017 s temperaturo 28,77°C. Razlika med tema dvema dnevoma je približno 44°C.<br>
+
+   Izvedli smo podobno analizo za Slovenijo in njene sosednje države:
 
    <b>Slovenija</b><br>
    Najhladnejši dan je bil 07.01.1985 s temperaturo -15.26 °C.<br>
    Najbolj vroč dan je bil 04.08.2017 s temperaturo 28.77 °C.<br>
+   Razlika: 44.03°C<br>
    
    <b>Avstrija</b><br>
    Najhladnejši dan je bil 12.01.1987 s temperaturo -19.91 °C.<br>
    Najbolj vroč dan je bil 03.08.2013 s temperaturo 26.29 °C.<br>
+   Razlika: 46.2°C<br>
    
    <b>Italija</b><br>
    Najhladnejši dan je bil 10.01.1985 s temperaturo -4.62 °C.<br>
    Najbolj vroč dan je bil 04.08.2017 s temperaturo 30.70 °C.<br>
+   Razlika: 35.32°C<br>
 
    <b>Hrvaška</b><br>
    Najhladnejši dan je bil 31.01.1987 s temperaturo -13.02 °C<br>
    Najbolj vroč dan je bil 04.08.2017 s temperaturo 30.91 °C<br>
+   Razlika: 43.93°C<br>
    
    <b>Madžarska</b><br>
    Najhladnejši dan je bil 13.01.1987 s temperaturo -19.72 °C.<br>
    Najbolj vroč dan je bil 20.07.2007 s temperaturo 32.15 °C.<br>
+   Razlika: 51.87°C<br>
+
+   Po dobljenih rezultatih je razvidno, da je največja razlika v temperaturah v Madžarski, kjer je razpon med najhladnejšim in najtoplejšim dnem kar 51,87°C.
    
 ### 4. Analiza - Rast temperature skozi leta
    
