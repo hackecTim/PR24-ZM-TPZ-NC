@@ -46,10 +46,10 @@ Izvedene analize:
    
 ### 3. Analiza - hladni in topli meseci
 
-   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020 za Slovenijo. Pregledali smo vsa dnevna povprečja ter identificirali najtoplejši in najhladnejši dan.
-   Za Slovenijo je bil najhladnejši dan 7. januar 1985 s temperaturo -15,26°C, medtem ko je bil najtoplejši dan 4. avgust 2017 s temperaturo 28,77°C. Razlika med tema dvema dnevoma je približno 44°C.<br>
+   Pri tretji analizi smo preko podatkov poiskali najtoplejši in najhladnejši dan med letoma 1980 in 2020. Pregledali smo vsa dnevna povprečja ter identificirali najtoplejši in najhladnejši dan.
+   Za Slovenijo je bil najhladnejši dan 7. januar 1985 s temperaturo -15.26°C, medtem ko je bil najtoplejši dan 4. avgust 2017 s temperaturo 28.77°C. Razlika med tema dvema dnevoma je približno 44°C.<br>
 
-   Izvedli smo podobno analizo za sosednje države:
+   Analiza je bila izvedena za Slovenijo in njene sosednje države:
 
    <b>Slovenija</b><br>
    Najhladnejši dan je bil 07.01.1985 s temperaturo -15.26 °C.<br>
@@ -84,7 +84,7 @@ Izvedene analize:
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/61b7a9a9-5db8-45be-816a-695fc586e2d5)
 
-   S pomočjo grafa smo poiskali največji preskok v temperaturi, ki se je zgodil iz leta v leto. Največji preskok smo zaznali med letoma 2010 in 2011, ko je temperatura poskočila za 1,4 °C. Na grafu je zelo dobro razviden trend rasti temperature v sosednjih državah, pri čemer so vidna tudi nekatera odstopanja, ki jih najverjetneje povzročajo različne podnebne razmere.
+   S pomočjo grafa smo poiskali največji preskok v temperaturi, ki se je zgodil iz leta v leto. Največji preskok v Sloveniji smo zaznali med letoma 2010 in 2011, ko je temperatura poskočila za 1.4 °C. Na grafu je zelo dobro razviden trend rasti temperature v sosednjih državah, pri čemer so vidna tudi nekatera odstopanja, ki jih najverjetneje povzročajo različne podnebne razmere.
 
    
 ### 5. Analiza - Napoved temperature za Slovenijo in sosednje države leta 2029<br>
@@ -92,10 +92,10 @@ Izvedene analize:
    Pri peti analizi smo napovedali rast temperature za naslednjih deset let. Na podlagi podatkov iz četrte analize smo izračunali povprečno rast temperature za vsako desetletje od leta 1980 do 2020.
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/94ae6c8f-919e-49f4-9f44-2461c2269abd)<br>
    
-   Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0,93°C, pri čemer se povprečna rast na desetletje povečuje za 0,05°C. To pomeni, da se bo hitrost segrevanja v prihodnosti verjetno še povečala. Na podlagi teh sprememb v rasti temperatur smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja in upoštevali še spremembo rasti na desetletje. Tako smo prišli do natančnejše napovedi prihodnje temperature, kar nam omogoča boljše razumevanje vplivov globalnega segrevanja na lokalni ravni.
+   Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C, pri čemer se povprečna rast na desetletje povečuje za 0.05°C. To pomeni, da se bo hitrost segrevanja v prihodnosti verjetno še povečala. Na podlagi teh sprememb v rasti temperatur smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja in upoštevali še spremembo rasti na desetletje. Tako smo prišli do natančnejše napovedi prihodnje temperature, kar nam omogoča boljše razumevanje vplivov globalnega segrevanja na lokalni ravni.
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/264cc53b-c548-4d5b-8224-1d380c4b9d50)<br>
-   Po izračunanih rezultatih lahko za Slovenijo pričakujemo, da bo povprečna temperatura leta 2029 znašala 11,73°C. Ta napoved temelji na trenutnih trendih rasti temperature, ki smo jih zaznali v preteklih desetletjih.
+   Po izračunanih rezultatih lahko za Slovenijo pričakujemo, da bo povprečna temperatura leta 2029 znašala 11.73°C. Ta napoved temelji na trenutnih trendih rasti temperature, ki smo jih zaznali v preteklih desetletjih.
 
 
 ## Glavne ugotovitve
@@ -108,11 +108,9 @@ Izvedene analize:
    <li>Najtoplejši dan v Sloveniji je bil 07.01.1985 s povprečno temperaturo -15.26°C in najhladnejši dan je bil 04.08.2017.
    S tem lahko tudi potrdimo, da so se dnevi povprečno ogreli.</li>
    
-   <li>Pričakovana sprememba v temperaturi ozračja Slovenije do leta 2030 je za 0.93°C.</li>
+   <li>Pričakovana sprememba v povprečni temperaturi ozračja Slovenije do leta 2030 na desetletje je 0.93 °C, ki se na vsakih 10 let poveča še za 0.05 °C.</li>
    
-   <li>V Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C</li>
-   
-   <li>Skozi analize smo tudi potrdili, da ni samo Slovenija žrtev globalnega segrevanja, ampak se tudi sosedne države segrevajo s podobnim trendom. Lahko sklepamo, da to tudi velja za vse ostale države na svetu</li>
+   <li>Skozi analize smo tudi potrdili, da ni samo Slovenija žrtev globalnega segrevanja, ampak se tudi sosedne države segrevajo s podobnim trendom. V analizi smo ugotovili tudi, da je sprememba temperature tudi odvisna od podnebnih razmer, geografska lokacije in ostalih dejavnikov, zato lahko sklepamo, da pojav globalnega segrevanja velja za vse ostale države na svetu.</li>
       
    Najzanimivejši rezultati:<br>
       <li>Najzanimivejša je bila ugotovitev, da je poletje v povprečju le za 10°C toplejše, kot pa spomlad in jesen.</li>
