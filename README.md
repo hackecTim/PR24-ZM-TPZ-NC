@@ -80,25 +80,22 @@ Izvedene analize:
    
 ### 4. Analiza - Rast temperature skozi leta
    
-   Pri četrti analizi smo poskušali ugotoviti kakšen je bil potek potek rasti temperature za Slovenijo in sosednje države, identificirati smo želeli tudi katerega leta je prišlo do največjega preskoka temperature. 
-   To smo dosegli tako, da smo za vsako državo izračunali povprečne letne temperature in začetno temperaturo postavili na vrednost 0.
+   Pri četrti analizi smo poskušali ugotoviti, kakšen je bil potek rasti temperature za Slovenijo in njene sosednje države, ter identificirati leto z največjim temperaturnim preskokom. To smo dosegli z izračunom povprečnih letnih temperatur za vsako državo in postavitvijo začetne temperature na vrednost 0. Na ta način smo lahko jasno prikazali spremembe skozi čas in natančno določili leta, v katerih so se zgodile največje spremembe.
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/61b7a9a9-5db8-45be-816a-695fc586e2d5)
 
-   S pomočjo grafa smo poiskali največji preskok v temperaturi, ki se je zgodila iz leta v leto. Največji preskok se je zgodil iz leta 2010 na leto 
-   2011 za 1,4 °C. Na grafu je zelo dobro razviden trend rasti temperature v sosednjih državah, nekaj odstopanj je tudi vidno, na katere so najverjetneje vplivale različne podnebne razmere.
+   S pomočjo grafa smo poiskali največji preskok v temperaturi, ki se je zgodil iz leta v leto. Največji preskok smo zaznali med letoma 2010 in 2011, ko je temperatura poskočila za 1,4 °C. Na grafu je zelo dobro razviden trend rasti temperature v sosednjih državah, pri čemer so vidna tudi nekatera odstopanja, ki jih najverjetneje povzročajo različne podnebne razmere.
 
    
 ### 5. Analiza - Napoved temperature za Slovenijo in sosednje države leta 2029<br>
 
-   Pri peti analizi smo napovedali rast temperature čez 10 let. Glede na podatke iz četrte analize, smo izračunali povprečno rast temperature za vsako desetletje od 1980 do 2020. 
+   Pri peti analizi smo napovedali rast temperature za naslednjih deset let. Na podlagi podatkov iz četrte analize smo izračunali povprečno rast temperature za vsako desetletje od leta 1980 do 2020.
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/94ae6c8f-919e-49f4-9f44-2461c2269abd)<br>
    
-   Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0.93°C, sprememba rasti pa je v povprečju na desetletje večja za 0.05°C. 
-   Glede na spremembe rasti v desetletjih smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja, ter upoštevali spremembo rasti na desetletje.
+   Glede na tabelo je razvidno, da lahko v Sloveniji pričakujemo povprečno rast temperature na desetletje za 0,93°C, pri čemer se povprečna rast na desetletje povečuje za 0,05°C. To pomeni, da se bo hitrost segrevanja v prihodnosti verjetno še povečala. Na podlagi teh sprememb v rasti temperatur smo napovedali temperaturo za leto 2029 tako, da smo povprečni temperaturi leta 2019 prišteli povprečno rast desetletja in upoštevali še spremembo rasti na desetletje. Tako smo prišli do natančnejše napovedi prihodnje temperature, kar nam omogoča boljše razumevanje vplivov globalnega segrevanja na lokalni ravni.
    
    ![image](https://github.com/hackecTim/PR24-ZM-TPZ-NC/assets/68116017/264cc53b-c548-4d5b-8224-1d380c4b9d50)<br>
-   Za Slovenijo lahko pričakujemo leta 2029, da bo v povprečju temperatura 11.73°C.
+   Po izračunanih rezultatih lahko za Slovenijo pričakujemo, da bo povprečna temperatura leta 2029 znašala 11,73°C. Ta napoved temelji na trenutnih trendih rasti temperature, ki smo jih zaznali v preteklih desetletjih.
 
 
 ## Glavne ugotovitve
